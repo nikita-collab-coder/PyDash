@@ -1,2 +1,0 @@
-# Only needed for tools/smoke_test.py (headless pygame emulator in tools/pygame_shim)
-pillow>=10.0
